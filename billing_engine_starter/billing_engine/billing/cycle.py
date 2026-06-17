@@ -65,3 +65,4 @@ class BillingCycle:
         """Mid-cycle upgrade — Day 4 stretch."""
         # TODO Day 4
         raise NotImplementedError("Day 4: implement BillingCycle.upgrade_subscription")
+
